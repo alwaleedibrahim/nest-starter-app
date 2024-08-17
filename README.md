@@ -31,7 +31,11 @@
 ```bash
 $ npm install
 ```
-
+## .env example
+```env
+DB_URI="mongodb://localhost:27017/nest"
+JWT_SECRET="MySecret"
+```
 ## Running the app
 
 ```bash
